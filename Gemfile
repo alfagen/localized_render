@@ -8,7 +8,7 @@ gemspec
 
 # support rails 5.2
 #
-gem 'globalize', github: 'globalize/globalize', ref: 'HEAD'
+gem 'globalize'
 # Declare any dependencies that are still in development here instead of in
 # your gemspec. These might include edge Rails or gems from your path or
 # Git. Remember to move these dependencies to your gemspec before releasing
